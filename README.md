@@ -31,7 +31,8 @@ then make migrations and run the server to get the output
 Publish the website in the given URL.
 
 ## PROGRAM :
-```<html>
+```
+<html>
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
@@ -97,9 +98,11 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 ## OUTPUT:
 ### Home Page:
+![AREAOUTPUT](/images/homepage.png)
+
+
 ![HOMEPAGE](/images/ex05.png)
 
-![AREAOUTPUT](/images/homepage.png)
 
 ## Result:
 calculations are performed correctly as per the given inputs
